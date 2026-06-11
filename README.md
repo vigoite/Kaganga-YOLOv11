@@ -21,7 +21,7 @@ Model dilatih menggunakan pendekatan object detection sehingga setiap karakter d
 
 ### Framework
 
-- Python 3.x
+- Python 3.0
 - Ultralytics YOLO11
 - Roboflow
 - Google Colab
